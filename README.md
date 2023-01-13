@@ -1,3 +1,5 @@
+Use https://greasyfork.org/zh-CN/scripts/451795-rj-code-preview instead
+
 # VoiceLinks
 Userscript for 4chan to make DLsite RJ codes more useful.
 
